@@ -1,0 +1,7 @@
+{
+    "name": "DW1000",
+    "version": "0.0.1",
+    "author": "Thotro (Ported by Winterscar)",
+    "license": "Apache License",
+    "description": "Library for interfacing with the Decawave DWM1000"
+}

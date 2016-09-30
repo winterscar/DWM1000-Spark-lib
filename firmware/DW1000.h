@@ -247,7 +247,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <Arduino.h>
+#include <application.h>
 #include "DW1000Time.h"
 #include <SPI.h>
 

@@ -249,7 +249,6 @@
 #include <string.h>
 #include <application.h>
 #include "DW1000Time.h"
-#include <SPI.h>
 
 class DW1000Class {
 public:
